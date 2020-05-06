@@ -1,6 +1,6 @@
 # Minesweeper-AI
 
-dependancy: pygame
+dependancy: pygame  
 pip3 install pygame
 
 # Usage:
