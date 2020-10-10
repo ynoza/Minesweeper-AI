@@ -1,5 +1,5 @@
 # Minesweeper-AI
-
+![Gameplay] (minesweep.jpg)
 dependancy: pygame  
 pip3 install pygame
 
